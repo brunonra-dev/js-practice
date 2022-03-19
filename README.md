@@ -1,3 +1,4 @@
+![gif](https://media.giphy.com/media/q1mHcB8wOCWf6/giphy.gif)
 # JavaScrip Practice Repo
 
 ## Scrimba:
