@@ -5,3 +5,6 @@ Password Generator, generate 4 random passwords.
 ## Preview:
 
 ![preview](project-preview.png)
+
+## Requirements:
+![](requirements.png)
