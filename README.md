@@ -5,4 +5,5 @@
 
 ## Scrimba:
 
-01. [Solo Project Unit Converter](/01-solo-project-unit-converter/)
+01. [Solo Project Unit Converter](01-solo-project-unit-converter/)
+02. [Solo Project Password Generator](02-solo-project-password-generator/)
